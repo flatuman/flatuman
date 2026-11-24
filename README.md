@@ -4,7 +4,7 @@
 
 I design microcontroller-based electronics and write the C firmware that runs on them. I have 13+ years in electronics hardware design and EDA, plus customer-facing application engineering at Altium and CELUS.
 
-- 🔧 **Embedded:** C on 8/32-bit MCUs (Microchip PIC, NXP Coldfire, NEC V25), board bring-up and debugging
+- 🔧 **Embedded:** C on 8/32-bit MCUs (STM32, ESP32, Microchip PIC), board bring-up and debugging
 - 🧩 **Hardware:** schematic and multilayer PCB design in Altium Designer and Autodesk Eagle · IPC CID certified
 - 🔌 **Industrial & IoT communications:** CAN bus / CANopen, RS-485/422, Ethernet TCP/IP, Wi-Fi, UART, I2C, SPI
 - 🎓 **Field application:** design reviews, demos and training for electronics engineers in Europe and the USA
